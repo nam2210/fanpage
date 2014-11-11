@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fanpage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category">
+        <item> Photos Stream</item>
+        <item> Favorite Photos</item>
+    </string-array>
+    <string name="title_dialog">Actions</string>
+    <string name="share">Share</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_title">UNKNOW</string>
+    <string name="comment_title">Comment</string>
+    <string name="toast_saved">Wallpapaer saved to #</string>
+    <string name="toast_saved_failed">Sorry! Failed to save wallpaper</string>
+    <string name="photo_download_error">Sorry! Unable to download photo. Maybe device doesn\'t have internet connection.</string>
+    <string name="msg_unknown_error">Sorry! Unknown error occurred.</string>
+	<string name="loading_text">Đang Tải Chờ Chút</string>
+</resources>

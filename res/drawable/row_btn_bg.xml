@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item > 
+		<shape android:shape="rectangle">
+		    <corners
+			    android:bottomLeftRadius="@dimen/corner_radius"
+			    android:bottomRightRadius="@dimen/corner_radius"
+			    />
+  			<!-- bo goc  --> 
+			<solid android:color="@color/drawer_bg"/> <!--  background -->
+			<stroke android:width="1dp" android:color="@color/drawer_bg" /> <!-- vien border --> 
+		</shape>
+	</item>
+
+</layer-list>
